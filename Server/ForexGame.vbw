@@ -1,0 +1,8 @@
+FrmMain = 88, 110, 1228, 841, , 22, 29, 1358, 772, C
+MainModule = 22, 29, 1358, 772, C
+TDecryptModule = 22, 29, 1358, 772, C
+SocketModule = 176, 232, 1316, 883, C
+TEncryptModule = 110, 145, 1250, 796, C
+LogModule = 176, 232, 1316, 883, C
+HelperModule = 143, 183, 1283, 834, C
+DlgUserInfo = 22, 29, 1162, 680, C, 0, 0, 1140, 651, C
